@@ -7705,10 +7705,11 @@ textarea.form-control-lg {
   color: #1A1A1A !important;
 }
 
-#color-white1{color: #F3F3F3;}
+#color-white1{color: #F3F3F3 !important;}
 #color-white2{color: #F3F3F3;}
 #color-white3{color: #1A1A1A !important;}
 
+.color-blanco{color: #F3F3F3 !important;}
 
 
 
